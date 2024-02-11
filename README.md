@@ -37,40 +37,40 @@ K. Disable root login
 
 # SOLUTION TO THE TASK.
 A . `Change directory to the tests directory using absolute pathname`
-     ![absolute path](screenshots/absolutepathname.png)
+     ![absolute path](/Screenshots/absolutepathname.png)
 
 B . `Change directory to the tests directory using relative pathname`
-    ![relative path](screenshots/relativepath.png)
+    ![relative path](/Screenshots/relativepath.png)
 
 C . `Use echo command to create a file named fileA with text content ‘Hello A’ in the misc directory`
-    ![FileA echo command](screenshots/fileA.png)
+    ![FileA echo command](/Screenshots/fileA.png)
 
 D . `Create an empty file named fileB in the misc directory`
-    ![fileB](screenshots/fileB.png)
+    ![fileB](/Screenshots/fileB.png)
 
 E . `Copy contents of fileA into fileC`
-    ![copy fileA inti fileC](screenshots/cpfafc.png)
+    ![copy fileA inti fileC](/Screenshots/cpfafc.png)
 
 F-i. `Move contents of fileB into fileD `
-    ![move fileB to fileD](screenshots/mv.png)
+    ![move fileB to fileD](/Screenshots/mv.png)
 
  ii. `Create a tar archive called misc.tar for the contents of misc directory`  
-    ![tar archive](screenshots/tar.png)
+    ![tar archive](/Screenshots/tar.png)
 
 iii. `Compress the tar archive to create a misc.tar.gz file`   
-    ![compress tar archive](screenshots/gzip.png)
+    ![compress tar archive](/Screenshots/gzip.png)
 
 G . `Create a user and force the user to change his/her password upon login`
-    ![user that change password upon login](screenshots/chagecmd.png)
+    ![user that change password upon login](/Screenshots/chagecmd.png)
 
 H . `Lock a users password`
-    ![lock a users password](screenshots/lock.png)
+    ![lock a users password](/Screenshots/lock.png)
 
 I . `Create a user with no login shell`
-    ![no login shell](screenshots/noshell.png)
+    ![no login shell](/Screenshots/noshell.png)
 
 J . `Disable password based authentication for ssh` 
-    ![disable ssh auth](screenshots/passwordauth.png)
+    ![disable ssh auth](/Screenshots/passwordauth.png)
 
 K . `Disable root login`
-    ![disable login root](screenshots/permitrootlogin.png)       
+    ![disable login root](/Screenshots/permitrootlogin.png)       
